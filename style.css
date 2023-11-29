@@ -1,0 +1,32 @@
+* {
+    background-image: linear-gradient(to left, lightblue, white);
+}
+
+.antarctica {
+    margin: 0px 1060px 0;
+    size: 110px;
+}
+
+.penguin {
+    margin: 0px 1002px 0;
+    width: 25%;
+    height: 25%;
+}
+
+.graph {
+    margin: 0px 1002px 0;
+    width: 25%;
+    height: 25%;
+}
+
+.qa {
+    margin: -725px 0 0;
+}
+
+.qa {
+    width: 50%;
+}
+
+.citation {
+    background-color: lightblue;
+}
